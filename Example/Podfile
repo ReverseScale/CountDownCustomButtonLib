@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CountDownCustomButtonLib_Example' do
+  pod 'CountDownCustomButtonLib', :path => '../'
+
+  target 'CountDownCustomButtonLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
