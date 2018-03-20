@@ -8,18 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CountDownCustomButtonLib'
-  s.version          = '0.1.0'
-  s.summary          = '获取验证码计时按钮 封装'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+  s.version          = '0.2.0'
+  s.summary          = 'Get verification code timing button'
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
-封装常用的验证码倒计时功能，还你一个结构清晰的登录、注册页面。
+Encapsulation common verification code countdown function, stable performance, thread safety.
                        DESC
 
   s.homepage         = 'https://github.com/ReverseScale/CountDownCustomButtonLib'
