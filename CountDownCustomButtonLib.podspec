@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CountDownCustomButtonLib'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'Get verification code timing button'
 
   s.description      = <<-DESC
